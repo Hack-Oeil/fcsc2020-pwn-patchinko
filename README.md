@@ -12,7 +12,7 @@ Origine : [Patchinko](https://hackropole.fr/fr/challenges/pwn/fcsc2020-pwn-patch
 > http://localhost
 
 #### tentez 
-> nc patchinko.cyrhades.com:4000
+> nc patchinko.cyrhades.fr:4000
 
 
 -----------
