@@ -3,7 +3,7 @@
 Venez tester la nouvelle version de machine de jeu Patchinko ! Les chances de victoire étant proches de zéro, nous aidons les joueurs. Prouvez qu’il est possible de compromettre le système pour lire le fichier flag.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Patchinko](https://hackropole.fr/fr/challenges/pwn/fcsc2020-pwn-patchinko/)
 
